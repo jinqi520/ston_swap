@@ -1,6 +1,8 @@
 一个在ston上进行swap的脚本
 
+替换代码中的mnemonics为自己的助记词
 需要注意的是代码里钱包使用的V5R1版本 如果是V4或是V3的钱包需要将WalletContractV5R1换成WalletContractV4或是WalletContractV3
+
 
 脚本运行：
 node main.js EQA2kCVNwVsil2EM2mB0SkXytxCqQjS4mttjDpnXmwG9T6bO 5 1
