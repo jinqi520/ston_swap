@@ -1,0 +1,22 @@
+{
+  "name": "ton_dex_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ston-fi/api": "^0.14.0",
+    "@ston-fi/sdk": "^1.2.0",
+    "@ton/core": "^0.59.0",
+    "@ton/crypto": "^3.3.0",
+    "@ton/ton": "^15.1.0",
+    "buffer": "^6.0.3",
+    "node-fetch": "^3.3.2",
+    "yarn": "^1.22.22"
+  }
+}

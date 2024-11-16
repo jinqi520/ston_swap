@@ -1,0 +1,13 @@
+一个在ston上进行swap的脚本
+
+需要注意的是代码里钱包使用的V5R1版本 如果是V4或是V3的钱包需要将WalletContractV5R1换成WalletContractV4或是WalletContractV3
+
+脚本运行：
+node main.js EQA2kCVNwVsil2EM2mB0SkXytxCqQjS4mttjDpnXmwG9T6bO 5 1
+
+第一个参数：是jetton token的合约地址
+EQA2kCVNwVsil2EM2mB0SkXytxCqQjS4mttjDpnXmwG9T6bO 
+第二个参数：是你想要支付多少个ton
+5 
+第三个参数：是你能接受的最大滑点
+1
