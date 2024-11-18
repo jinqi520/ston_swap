@@ -13,3 +13,5 @@ EQA2kCVNwVsil2EM2mB0SkXytxCqQjS4mttjDpnXmwG9T6bO
 5 
 第三个参数：是你能接受的最大滑点
 1
+第四个参数：所能接收最少的jetton数量，切记不含精度 也就是说本次swap你最少要到手50usdt 那这里就是50
+4
